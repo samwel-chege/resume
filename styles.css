@@ -4,6 +4,9 @@ body {
     max-width: 960px;
     margin: auto;
 }
+body a {
+    text-decoration: none;
+}
 h1 {
     font-size: 3em;
     letter-spacing: .6em;
